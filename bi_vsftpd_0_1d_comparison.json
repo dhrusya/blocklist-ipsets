@@ -1,0 +1,86 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 20488,
+		"common": 12
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 7674,
+		"common": 1
+	},
+	{
+		"name": "bi_ftp_0_1d",
+		"category": "attacks",
+		"ips": 95,
+		"common": 12
+	},
+	{
+		"name": "bi_pureftpd_0_1d",
+		"category": "attacks",
+		"ips": 37,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh_0_1d",
+		"category": "attacks",
+		"ips": 12847,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh_1_7d",
+		"category": "attacks",
+		"ips": 7083,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 32641,
+		"common": 11
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 497,
+		"common": 11
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 14927,
+		"common": 11
+	},
+	{
+		"name": "dronebl_irc_drones",
+		"category": "abuse",
+		"ips": 370285,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 40415,
+		"common": 11
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9411564,
+		"common": 11
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 3008,
+		"common": 9
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 338111403,
+		"common": 1
+	}
+]
